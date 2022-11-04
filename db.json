@@ -1,86 +1,129 @@
 {
-    "filmes": [
-      {
-        "id": 1,
-        "titulo": "Pantera Negra: Wakanda Para Sempre",
-        "Descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
-        "genero": "Ação",
-        "sala": "5",
-        "tipo_id": "1"
-      },
-      {
-        "id": 2,
-        "first_name": "Marion",
-        "last_name": "Jenman",
-        "email": "mjenman1@surveymonkey.com",
-        "gender": "Male"
-      },
-      {
-        "id": 3,
-        "first_name": "Alfy",
-        "last_name": "Begin",
-        "email": "abegin2@list-manage.com",
-        "gender": "Female"
-      },
-      {
-        "id": 4,
-        "first_name": "Karney",
-        "last_name": "Zanussii",
-        "email": "kzanussii3@hao123.com",
-        "gender": "Male"
-      },
-      {
-        "id": 5,
-        "first_name": "Reid",
-        "last_name": "Schapero",
-        "email": "rschapero4@timesonline.co.uk",
-        "gender": "Male"
-      },
-      {
-        "id": 6,
-        "first_name": "Dorine",
-        "last_name": "Braybrookes",
-        "email": "dbraybrookes5@gov.uk",
-        "gender": "Female"
-      },
-      {
-        "id": 7,
-        "first_name": "Sarena",
-        "last_name": "Frape",
-        "email": "sfrape6@alexa.com",
-        "gender": "Female"
-      },
-      {
-        "id": 8,
-        "first_name": "Malva",
-        "last_name": "Pierse",
-        "email": "mpierse7@usda.gov",
-        "gender": "Female"
-      },
-      {
-        "id": 9,
-        "first_name": "Rania",
-        "last_name": "Dablin",
-        "email": "rdablin8@state.gov",
-        "gender": "Female"
-      },
-      {
-        "id": 10,
-        "first_name": "Ingrim",
-        "last_name": "Offen",
-        "email": "ioffen9@slideshare.net",
-        "gender": "Male"
-      }
-    ],
+  "filmes": [
+    {
+      "id": 1,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
+      "genero": "Aventura",
+      "sala_id": "4",
+      "secao_id": "1",
+      "cartaz": "https://s2.glbimg.com/CV473j0T17G1kNT369lbJ_jJKSE=/0x0:743x1100/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/A/A/tUlOuNRDGBdBhUaBgGtg/wakanda.png"
+    },
+    {
+      "id": 2,
+      "titulo": "Adão Negro",
+      "descricao": "Nascido no Egito Antigo, o anti-herói tem super força, velocidade, resistência, capacidade de voar e de disparar raios. Alter ego de Teth-Adam e filho do faraó Ramsés II, Adão Negro foi consumido por poderes mágicos e transformado em um feiticeiro. Grande inimigo de Shazam! nas HQs, apesar dele acreditar em seu pontecial e, inclusive, oferecê-lo como um guerreiro do bem, Adão Negro acaba usando suas habilidades especiais para o mal. O anti-herói em busca de redenção ou um herói que se tornou vilão, pode ser capaz de destruir tudo o que estiver pela frente - ou de encontrar seu caminho.",
+      "genero": "Ação",
+      "sala_id": "3",
+      "secao_id": "2",
+      "cartaz": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSrULQHUpm3Zr60AXFAltaQkpo6DAe8FZmhSrYsa7t5DCUeaeF9"
+    },
+    {
+      "id": 3,
+      "titulo": "One Piece Film: Red",
+      "descricao": "Em ONE PIECE FILM RED todos conhecerão Uta, a cantora mais amada do planeta, cuja voz foi descrita como `de outro mundo´. Ela é conhecida por esconder sua própria identidade ao se apresentar. Agora, pela primeira vez, Uta se revelará ao mundo em um show ao vivo. Com a Marinha assistindo de perto, o local se enche de fãs de Uta - incluindo piratas animados e os Chapéus de Palha liderados por Luffy, que vieram para curtir sua performance - todos aguardam ansiosamente a voz que o mundo inteiro estava esperando. A história começa com a chocante revelação de que ela é a enigmática filha de Shanks.",
+      "genero": "Animação",
+      "sala_id": "1",
+      "secao_id": "1",
+      "cartaz": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fonepiecefilmredbrasil.com.br%2F&psig=AOvVaw1iKgDgxpl5K7K-zPsVn2K2&ust=1667649638884000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCMiE4pW9lPsCFQAAAAAdAAAAABAD"
+    },
+    {
+      "id": 4,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
+      "genero": "Ação",
+      "sala_id": "4",
+      "secao_id": "1",
+      "cartaz": "https://s2.glbimg.com/CV473j0T17G1kNT369lbJ_jJKSE=/0x0:743x1100/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/A/A/tUlOuNRDGBdBhUaBgGtg/wakanda.png"
+    },
+    {
+      "id": 5,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
+      "genero": "Ação",
+      "sala_id": "4",
+      "secao_id": "1",
+      "cartaz": "https://s2.glbimg.com/CV473j0T17G1kNT369lbJ_jJKSE=/0x0:743x1100/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/A/A/tUlOuNRDGBdBhUaBgGtg/wakanda.png"
+    },
+    {
+      "id": 6,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
+      "genero": "Ação",
+      "sala_id": "4",
+      "secao_id": "1",
+      "cartaz": "https://s2.glbimg.com/CV473j0T17G1kNT369lbJ_jJKSE=/0x0:743x1100/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/A/A/tUlOuNRDGBdBhUaBgGtg/wakanda.png"
+    },
+    {
+      "id": 7,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
+      "genero": "Ação",
+      "sala_id": "4",
+      "secao_id": "1",
+      "cartaz": "https://s2.glbimg.com/CV473j0T17G1kNT369lbJ_jJKSE=/0x0:743x1100/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/A/A/tUlOuNRDGBdBhUaBgGtg/wakanda.png"
+    },
+    {
+      "id": 8,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
+      "genero": "Ação",
+      "sala_id": "4",
+      "secao_id": "1",
+      "cartaz": "https://s2.glbimg.com/CV473j0T17G1kNT369lbJ_jJKSE=/0x0:743x1100/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/A/A/tUlOuNRDGBdBhUaBgGtg/wakanda.png"
+    },
+    {
+      "id": 9,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
+      "genero": "Ação",
+      "sala_id": "4",
+      "secao_id": "1",
+      "cartaz": "https://s2.glbimg.com/CV473j0T17G1kNT369lbJ_jJKSE=/0x0:743x1100/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/A/A/tUlOuNRDGBdBhUaBgGtg/wakanda.png"
+    },
+    {
+      "id": 10,
+      "titulo": "Pantera Negra: Wakanda Para Sempre",
+      "descricao": "Em Wakanda, a Rainha Ramonda, Shuri, M'Baku, Okoye e as Dora Milaje lutam para proteger a sua nação de potências mundiais, na sequência da morte do rei T'Challa. Enquanto os Wakandianos se esforçam para abraçar o próximo capítulo, os heróis unem-se com a ajuda de War Dog Nakia e Everett Ross para descobrirem um novo caminho para o reino de Wakanda.",
+      "genero": "Ação",
+      "sala_id": "4",
+      "secao_id": "1",
+      "cartaz": "https://s2.glbimg.com/CV473j0T17G1kNT369lbJ_jJKSE=/0x0:743x1100/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_ba3db981e6d14e54bb84be31c923b00c/internal_photos/bs/2022/A/A/tUlOuNRDGBdBhUaBgGtg/wakanda.png"
+    }
+  ],
 
-    "tipo": [
-        {
-          "id": 1,
-          "nome": "Legendado"
-        },
-        {
-          "id": 2,
-          "nome": "Dublado"
-        }
-      ]
-  }
+  "secao": [
+    {
+      "id": 1,
+      "nome": "Legendado",
+      "tela": "3D"
+    },
+    {
+      "id": 2,
+      "nome": "Dublado",
+      "tela": "2D"
+    }
+  ],
+  "sala": [
+    {
+      "id": 1,
+      "sala": "1",
+      "assentos": "48"
+    },
+    {
+      "id": 2,
+      "sala": "2",
+      "assentos": "50"
+    },
+    {
+      "id": 3,
+      "sala": "3",
+      "assentos": "68"
+    },
+    {
+      "id": 4,
+      "sala": "4",
+      "assentos": "45"
+    }
+  ]
+}
